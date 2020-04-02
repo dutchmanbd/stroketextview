@@ -22,3 +22,19 @@ dependencies {
 
 ### How to use
 
+```
+<com.zxdmjr.stroketextview.StrokeTextView
+        android:id="+@/strokeTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:text="Hello World!"
+        app:textSize="18sp"
+        app:strokeColor="@color/colorWhite"
+        app:textColor="@color/colorBlack"
+        />
+```
+
+
+
+
+
