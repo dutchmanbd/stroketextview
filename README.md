@@ -24,7 +24,7 @@ dependencies {
 
 ```
 <com.zxdmjr.stroketextview.StrokeTextView
-        android:id="+@/strokeTextView"
+        android:id="@+id/strokeTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:text="Hello World!"
