@@ -1,0 +1,3 @@
+rootProject.name='StrokeTextViewDemo'
+include ':app'
+include ':stroketextview'
